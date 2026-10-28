@@ -1,23 +1,21 @@
-**📚 全部教程合集：[国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（本文已并入合集 [第六章 价格对比](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io/blob/main/docs/jiage-duibi.md)，16 章一个仓库，价格每周核对；网页版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
-
 # ChatGPT / Claude / Gemini / Grok 会员价格对比 2026：四家官方价、国内开通方法、代充价一页看懂
 
-> 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前：Grok Premium ¥159 → ¥239，另有 Plus / Super / Ultra 三档；相关攻略加组织目录页链接
+> 最后更新：2026-10-28 · 合集导流行移到快速购买下面，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
 ChatGPT Plus、Claude Pro、Google AI Pro（Gemini）、Grok Premium 一个月多少钱？重度档 ChatGPT Pro、Claude Max、Google AI Ultra、Grok Super / Ultra 又差多少？人在国内、没有海外信用卡，各家分别能用什么方法开通？这一页把四家的**官方美元价**、**约合人民币**和**国内开通方法**放在一起对照，每个数字都附官方链接和核对日期。
 
 **立场说明：** 本仓库由"瑶瑶ai训练师"整理，作者自己经营一家 AI 会员代充商城（kw.yaoyao.chat），所以本文不是第三方评测。正文先写官方价格和四种开通方法，代充只作为其中一种来写，作者商城的价格和链接统一放在最后一节。本文与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有授权，品牌名仅用于说明。
 
 <!-- 快速购买:开始（周更脚本会核对这里的价格） -->
-**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-27 核对，实际以商品页为准）：
+**快速购买**（作者自营商城 kw.yaoyao.chat，人民币，2026-10-28 核对，实际以商品页为准）：
 
-- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)
-- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)
-- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) · Grok Premium 一个月 ¥239 → [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) · Gemini Pro 十八个月 ¥99 → [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)
+- ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
+- ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
+- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)（同一个下单页可选 Max 5x ¥900 / Max 20x ¥1800）· Grok Premium 一个月 ¥239、Gemini Pro 十八个月 ¥99 在同一商城的 Grok、Gemini 下单页
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
-
-你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi&utm_content=github)
 <!-- 快速购买:结束 -->
+
+更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
 
 ## 目录
 
@@ -171,33 +169,31 @@ OpenAI 和 Anthropic 的页面都写明，在列表之外的地区使用，账�
 
 上面四种方法里，"代充"有很多家在做，瑶瑶ai训练师的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) 是其中一家，也就是本仓库作者自己的店。下面如实列出价格和售后规则，你可以拿上面的 6 个判断点逐条对照。
 
-**价格（人民币，2026-10-27 逐个 curl 商品页核对，实际以商品页为准）：**
+**价格（人民币，2026-10-27 逐个 curl 商品页核对，实际以商品页为准）：** 下单都在 kw.yaoyao.chat 对应商品的同一个下单页里选时长或档位。
 
-| 商品 | 作者商城价 | 官方价约合（不含税） | 开通方式 | 下单 |
-|---|---|---|---|---|
-| ChatGPT Plus 一个月 | ¥129 | 约 ¥133 | 付款后页面显示卡密，到 cz.yaoyao.chat 自助开通，一般 1～3 分钟 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| ChatGPT Plus 十二个月 | ¥1548（¥129 × 12） | 约 ¥1,601（官方没有年付，按 12 个月折算） | 付款后在订单页填开通信息，人工开通 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 约 ¥667 / ¥1,334 / ¥3,335 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| Claude Pro 一个月 | ¥159 | 约 ¥133 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 约 ¥667 / ¥1,334 | 人工开通 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| Grok Premium（原 SuperGrok，三合一）一个月 | ¥239 | 约 ¥200 | 人工开通；账号不是会员（免费版）就能充；同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
-| Gemini Pro（Google AI Pro）十八个月 | ¥99 | —（官方按月订阅，开通方式不同，不能直接比） | 付款后加瑶瑶微信发订单号，人工开通 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi) |
+| 商品 | 作者商城价 | 官方价约合（不含税） | 开通方式 |
+|---|---|---|---|
+| ChatGPT Plus 一个月 | ¥129 | 约 ¥133 | 付款后页面显示卡密，到 cz.yaoyao.chat 自助开通，平均 2 分钟到账 |
+| ChatGPT Plus 十二个月 | ¥1548（¥129 × 12） | 约 ¥1,601（官方没有年付，按 12 个月折算） | 同一个下单页选「1 年」；付款后在订单页填开通信息，平均 2 分钟到账 |
+| ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 约 ¥667 / ¥1,334 / ¥3,335 | 同一个下单页选档位；付款后在订单页填开通信息，平均 2 分钟到账 |
+| Claude Pro 一个月 | ¥159 | 约 ¥133 | 付款后在订单页只填组织 ID，平均 2 分钟到账 |
+| Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 约 ¥667 / ¥1,334 | 和 Claude Pro 同一个下单页选档位；付款后在订单页填开通信息，平均 2 分钟到账 |
+| Grok Premium（原 SuperGrok，三合一）一个月 | ¥239 | 约 ¥200 | 付款后在订单页填开通信息，平均 2 分钟到账；账号不是会员（免费版）就能充；同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499 |
+| Gemini Pro（Google AI Pro）十八个月 | ¥99 | —（官方按月订阅，开通方式不同，不能直接比） | 付款后加瑶瑶微信发订单号，平均 2 分钟开通好 |
 
 - 老客户回购每单减 ¥5（以前付过款的设备自动认出）；开发票加收 10%；实际金额以下单页为准。
 - 付款方式：支付宝、微信。
-- 人工开通的商品，商品页写明付款并填好信息后 10 分钟内开通（客服时间内）。
 - 会员开到你自己的账号上；不要账号密码、不要验证码；不卖成品号、不拼车。
-- Plus 为什么能卖 ¥129、成本怎么算，作者写了一篇公开说明：[ChatGPT Plus 代充 ¥129 为什么便宜](https://kw.yaoyao.chat/guide/plus-129-weishenme.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)；四家价格的网页版：[AI 会员多少钱](https://kw.yaoyao.chat/guide/ai-huiyuan-jiage.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)。
 
 **售后三条（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)）：**
 
-1. **没开通成功：** ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的联系微信退款；人工开通的商品没开通成功，重新开通或退款。
+1. **没开通成功：** ChatGPT Plus 一个月卡密不消耗、自动退回，可以重新提交，不想再试的联系微信退款；其他商品没开通成功，重新开通或退款。
 2. **开通成功后掉会员**（本期有效期内订阅被撤销、变回免费版）：凭订单号和截图，再补一个月，补到同一个账号。
 3. **账号被封 / 停用：** 不在质保范围、不退款；ChatGPT 封号可协助重新注册一个账号，Claude 封号协助按官方渠道申诉。
 
-**客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们；网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)。
+**客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们；网址只有 `www.yaoyao.chat`、`kw.yaoyao.chat`、`cz.yaoyao.chat` 三个（官网上的《官方账号与防骗说明》有完整名单）。
 
-**关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi#jietu)）。
+**关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加）。
 
 ## 常见问题
 
@@ -228,6 +224,7 @@ A：官方随时可能调整，本仓库每周核对一次作者商城价格，�
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-28 | **价格：** 按作者商城事实卡 yy-facts.json（每 15 分钟从商城数据库生成）核对全部商品 | 与本页"快速购买"和价格表一致，无变动；开通时间统一写"平均 2 分钟" |
 | 2026-10-28 | **商城调价：** ChatGPT Plus 三个月 ¥381 → ¥387、六个月 ¥750 → ¥774、十二个月 ¥1488 → ¥1548，统一按一个月 ¥129 × 月数计价 | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-28 | **商城调价：** ChatGPT Plus 十二个月改为 ¥1488，并入一个月的下单页（item/5 选「1 年」，旧 item/7 链接自动跳转）；三个月 ¥381、六个月 ¥750 | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
@@ -253,8 +250,8 @@ A Chinese-language comparison of 2026 subscription prices for ChatGPT, Claude, G
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
-- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
+- [全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)：组织号 yaoyao-ai-trainer 下的合集目录，每章是摘要，正文以各仓库为准。
 
 ---
 
-整理：瑶瑶ai训练师（AI 内容创作者），[官网](https://www.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-jiage-duibi)。本仓库为非官方教程整理，作者自营代充商城，已在文中如实披露；与 OpenAI、Anthropic、Google、xAI 没有隶属关系，品牌名仅用于说明。内容采用 CC-BY-4.0 许可，转载请注明出处。
+整理：瑶瑶ai训练师（AI 内容创作者）。本仓库为非官方教程整理，作者自营代充商城，已在文中如实披露；与 OpenAI、Anthropic、Google、xAI 没有隶属关系，品牌名仅用于说明。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/chatgpt-jiage-duibi ；不许改编、改写后发布。
